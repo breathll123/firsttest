@@ -80,10 +80,10 @@ WSGI_APPLICATION = 'd2xadmin.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'd2xad',        #数据库名字
-        'USER': 'root',          #账号
-        'PASSWORD': 'root',      #密码
-        'HOST': '111.229.109.115',    #IP
+        'NAME': '*',        #数据库名字
+        'USER': '*',          #账号
+        'PASSWORD': '*',      #密码
+        'HOST': '*',    #IP
         'PORT': '3306',
     }
 }
