@@ -40,7 +40,7 @@ six==1.13.0
 soupsieve==1.9.5
 sqlparse==0.3.0
 tablib==0.14.0
-urllib3==1.23
+urllib3==1.26.5
 uWSGI==2.0.18
 xadmin==2.0.1
 xlrd==1.2.0
